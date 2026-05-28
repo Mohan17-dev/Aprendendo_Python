@@ -1,4 +1,4 @@
-opcao1 = int(input('1-soma , 2-multiplicação , 3-subtração  , 4-divisão ')) 
+opcao = int(input('1-soma , 2-multiplicação , 3-subtração  , 4-divisão ')) 
 
 print('1- soma')
 if opcao == 1:
