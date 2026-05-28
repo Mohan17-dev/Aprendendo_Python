@@ -18,7 +18,7 @@ elif opcao == 3:
     num2 = float(input('segundo número: '))
     res = num1 - num2 
     print(f'O resultado é {res}')
-if opcao == 4:
+elif opcao == 4:
     num1 = float(input('primeiro número: '))
     num2 = float(input('segundo número ')) 
     res = num1 / num2
