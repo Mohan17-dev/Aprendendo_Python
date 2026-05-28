@@ -1,6 +1,6 @@
 opcao = int(input('1-soma , 2-multiplicação , 3-subtração  , 4-divisão ')) 
 
-print('1- soma')
+
 if opcao == 1:
     num1 = float(input('primeiro número: '))
     num2 = float(input('segundo número: '))
